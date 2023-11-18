@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Lobster');
-@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
 * {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -86,7 +85,7 @@ p:first-child {
 p.signed {
   margin-top: 1.5em;
   text-align: center;
-font-family: 'Indie Flower', cursive;
+font-family: 'Poppins', cursive;
   font-size: 1.5em;
 }
 
